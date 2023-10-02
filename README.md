@@ -1,2 +1,0 @@
-# BIOTS
-BIOTS Website
